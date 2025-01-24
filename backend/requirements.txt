@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+web3
+pandas
+psycopg2
